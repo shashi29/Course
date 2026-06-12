@@ -1,0 +1,33 @@
+# Speech-to-Text
+faster-whisper>=1.0.0
+
+# Speaker Diarization
+pyannote.audio>=3.0.0
+
+# Voice Embeddings & Emotion Detection
+speechbrain>=0.3.0
+
+# Audio Features
+opensmile>=2.5.0
+
+# Audio Processing
+librosa>=0.10.0
+soundfile>=0.12.0
+
+# Face Detection & Landmarks
+insightface>=0.7.0
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+
+# Eye Contact (Gaze Estimation)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# General ML & Data
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Utilities
+tqdm>=4.65.0
+requests>=2.31.0
